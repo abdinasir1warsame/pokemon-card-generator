@@ -83,7 +83,8 @@ header {
 }
 .pokemon-image {
   height: 300px;
-  width: 200px;
+  width: 280px;
+  align-items: center;
 }
 
 .card-content {
