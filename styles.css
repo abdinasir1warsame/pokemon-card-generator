@@ -137,8 +137,9 @@ header {
 }
 
 #generate-button:hover {
-  background-color: #7e3bca;
+  background-color: #b03bca;
   transform: translateX(-50%) scale(1.05);
+  color: white;
 }
 
 .pokemon-added-info {
