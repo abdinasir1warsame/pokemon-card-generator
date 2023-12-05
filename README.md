@@ -59,3 +59,7 @@ The website offers the following functionalities:
 ## Enjoy Exploring the PokeMystery Deck! 🚀👾
 
 Feel free to interact with the website, generate random Pokémon, and explore the vast world of Pokémon. Have fun on your Pokémon discovery journey! 🌈🌐
+
+# deployed url Links
+
+-deployed url:[https://abdinasir1warsame.github.io/pokemon-card-generator/](https://abdinasir1warsame.github.io/pokemon-card-generator/)
